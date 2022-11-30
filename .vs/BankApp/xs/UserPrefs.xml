@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{71B40CAC-6759-412C-B152-6DB784707C9A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="App/BankApp.cs">
+    <Files>
+      <File FileName="App/Entry.cs" Line="11" Column="6" />
+      <File FileName="App/ATMApp.cs" Line="130" Column="46" />
+      <File FileName="Domain/Entities/UserAccount.cs" Line="14" Column="28" />
+      <File FileName="UI/AppScreen.cs" Line="32" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BankApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{71B40CAC-6759-412C-B152-6DB784707C9A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App/Entry.cs">
+    <Files>
+      <File FileName="App/Entry.cs" Line="1" Column="1" />
+      <File FileName="App/ATMApp.cs" Line="17" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ATMApp" expanded="True">
+            <Node name="ATMApp" expanded="True">
+              <Node name="App" expanded="True">
+                <Node name="Entry.cs" selected="True" />
+              </Node>
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Enums" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="UI" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BankApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

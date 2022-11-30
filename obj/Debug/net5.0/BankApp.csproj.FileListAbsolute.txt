@@ -1,0 +1,5 @@
+/Users/Oluwafemi_Tom/Desktop/CSharp-ATM-Console-App-main/ATMApp2/ATMApp/obj/Debug/net5.0/BankApp.csproj.AssemblyReference.cache
+/Users/Oluwafemi_Tom/Desktop/CSharp-ATM-Console-App-main/ATMApp2/ATMApp/obj/Debug/net5.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Oluwafemi_Tom/Desktop/CSharp-ATM-Console-App-main/ATMApp2/ATMApp/obj/Debug/net5.0/BankApp.AssemblyInfoInputs.cache
+/Users/Oluwafemi_Tom/Desktop/CSharp-ATM-Console-App-main/ATMApp2/ATMApp/obj/Debug/net5.0/BankApp.AssemblyInfo.cs
+/Users/Oluwafemi_Tom/Desktop/CSharp-ATM-Console-App-main/ATMApp2/ATMApp/obj/Debug/net5.0/BankApp.csproj.CoreCompileInputs.cache

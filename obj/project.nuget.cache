@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "fF0maS+E1JZK8zWtTxwGsb4bPtekOkY2fEXm99JINJl4cDhsLwDXr3MBYNN5MAYsRp21etAUh1mnJ/zlp72ImQ==",
+  "success": true,
+  "projectFilePath": "/Users/Oluwafemi_Tom/Desktop/CSharp-ATM-Console-App-main/ATMApp2/ATMApp/BankApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Oluwafemi_Tom/.nuget/packages/consoletables/2.4.2/consoletables.2.4.2.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/Oluwafemi_Tom/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
